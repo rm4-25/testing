@@ -146,6 +146,7 @@ form {
  * displayed. On a mobile device, title in the right column is shown with 0
  * opacity, so that search, locate, and zoom buttons do not overlay the title,
  * creating an effect as if the title is located on top, and not the left column.
+ * EM = enlargement. 1=100% font size, which relates to user unique browser settings. 
  */
 .leaflet-right .map-title { display: none; }
 
